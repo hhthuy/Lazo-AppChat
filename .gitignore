@@ -1,0 +1,5 @@
+api-server/package-lock.json
+**/node_modules/**
+**/.env
+**/https
+lazo-server/.env
